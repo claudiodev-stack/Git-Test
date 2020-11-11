@@ -7,8 +7,7 @@ Conteúdos abordados.
 
 GIT Básico:
 
-*CONFIGURANDO USUÁRIO E EMAIL “LOCAL” OU “GLOBAL”
-*INICIANDO O GIT EM UM REPOSITÓRIO
+*CONFIGURANDO USUÁRIO E EMAIL “LOCAL” OU “GLOBAL”                                                                                                                           *INICIANDO O GIT EM UM REPOSITÓRIO
 *CONSULTANDO E IDENTIFICANDO STATUS (HISTÓRICOS) DOS REPOSITÓRIOS NO GIT
 *RASTREANDO ARQUIVOS
 *COMMITANDO ARQUIVOS 
