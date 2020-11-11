@@ -1,6 +1,6 @@
 # Git-Test
 
-Comandos básicos a intermediários usando o terminal do git e o github, usei o arquivo de exemplo index.html.
+Comandos básicos a intermediários usando o terminal do git e o github, usei o arquivo de exemplo index.html e duas contas claudio/renata para manipulação em grupo.
 Fiz uma pequena documentação (.docx) com imagens dos comandos que encontra-se no meu repositório "Devolpment - Base/ GIT"
 
 Conteúdos abordados:
